@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.github.dgrcoronel</groupId>
 	<artifactId>dsdeliver</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>dsdeliver</name>
 	<description>Projeto Semana DevSuperior 2.0</description>
 
